@@ -1,37 +1,63 @@
-## Welcome to GitHub Pages
+<html>
+	<head>
+		<title>
+			T-800 Homepage
+		</title>
+	</head>
+	<body>
+		<h1 style="text-align: center;">
+			T-800 Powering the future
+		</h1>
+	<br>
+	<br>
+	<br>
+	<br>
+		<p>
+			The T_800 is a 8gb gaming system that is mainly used for emulation style games but can have swappable Os inside.
+		</p>
+	<br>
+		<p> 
+			The T-800 is a computing system designed for the consumer to be able to to what they want with it.
+		</p>
+	<br>
+		<table border="1" style="border-collapse: collapse; width: 100%;">
+			<tbody>
+				<tr> 
+					<td style="width: 50%;">T-800</td>
+					<td style="width: 50%;">Standard T-800</td>
+				</tr>
+				<tr>
+					<td style="width: 50%;">T-800 SUPER</td>
+					<td style="width: 50%;">A super version of the T-800</td>
 
-You can use the [editor on GitHub](https://github.com/Farmergamer2437/T-800.1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Farmergamer2437/T-800.1/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+				</tr>
+				<tr>
+					<td style="width: 50%;">T-800 Swap</td>
+					<td style="width: 50%;">More Os</td>
+				</tr>
+				<tr>
+					<td style="width: 50%;">T-800 Combo</td>
+					<td style="width: 50%;">Comes with more than regular</td>
+				</tr>
+				<tr>
+					<td style="width: 50%;">T-400</td>
+					<td style="width: 50%;">The downgrade to the T-400</td>
+				</tr>
+				<tr>
+					<td style="width: 50%;">T-400 lite</td>
+					<td style="width: 50%;">A cheaper alternative to the T-400</td>
+				</tr>
+				<tr>
+					<td style="width: 50%;">T-200</td>
+					<td style="width: 50%;">A cheaper version of the T-400</td>
+				</tr>
+			</tbody>
+		</table>
+	<br>
+	<br>
+		<p> 
+			The T-400 is a downgrade form the original T-800. It is built to be a cheaper alternative. It comes with less power and less emulation.
+		</p>
+		<p>
+			It is built for your consumer needs. It can be used for many different things. It can do everything that the T-800 can do though. It cannot do it as well.
+	<br>
