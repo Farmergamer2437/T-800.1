@@ -61,3 +61,37 @@
 		<p>
 			It is built for your consumer needs. It can be used for many different things. It can do everything that the T-800 can do though. It cannot do it as well.
 	<br>
+	<br>
+		<p>
+			The T-800 and all of the others are on 
+		</p>
+			<button onclick="Function()">This page</button>
+
+		<script>
+			function Function() {
+			window.open("https://farmergamer2437.github.io/T-800.2/");
+			}
+		</script>
+	<br>
+	<br>
+		<p>
+			The T-400 is going to release first. The T-400 is made specialy handcrafted in every product. We specialize in making it personal to you.
+		</p>
+	<br>
+		<p> 
+			For a limited time we will be engraving custom text for 20$
+		</p>
+	<br>
+		<p>
+		<p>
+			The T-400 and T-200 Info is on 
+		</p>
+			<button onclick="TFunction()">This page</button>
+
+		<script>
+			function TFunction() {
+			window.open("https://farmergamer2437.github.io/T-400-and-200-info/");
+			}
+		</script>
+	</body>
+</html>
